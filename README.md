@@ -10,13 +10,13 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:allankalema8@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/allankalema)
 
-**📍 Kampala, Uganda** | Building intelligent systems that solve real-world problems
+**<img src="https://cdn-icons-png.flaticon.com/512/684/684908.png" width="16"/> Kampala, Uganda** | Building intelligent systems that solve real-world problems
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## <img src="https://cdn-icons-png.flaticon.com/512/2206/2206368.png" width="24"/> About Me
 
 ```python
 class AllanKalema:
@@ -48,19 +48,19 @@ class AllanKalema:
 
 <div align="center">
 
-### 💡 *"I don't just write code — I build systems that work in the real world"*
+### <img src="https://cdn-icons-png.flaticon.com/512/3079/3079134.png" width="20"/> *"I don't just write code — I build systems that work in the real world"*
 
 </div>
 
 ---
 
-## 🛠️ Technology Arsenal
+## <img src="https://cdn-icons-png.flaticon.com/512/2721/2721291.png" width="24"/> Technology Arsenal
 
 <table>
 <tr>
 <td valign="top" width="33%">
 
-### 🎯 Languages
+### <img src="https://cdn-icons-png.flaticon.com/512/1336/1336494.png" width="20"/> Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
@@ -69,7 +69,7 @@ class AllanKalema:
 </td>
 <td valign="top" width="33%">
 
-### 🚀 Frameworks & Tools
+### <img src="https://cdn-icons-png.flaticon.com/512/1087/1087815.png" width="20"/> Frameworks & Tools
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
@@ -80,7 +80,7 @@ class AllanKalema:
 </td>
 <td valign="top" width="33%">
 
-### 🧠 AI/ML Stack
+### <img src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png" width="20"/> AI/ML Stack
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![LangChain](https://img.shields.io/badge/🦜_LangChain-121212?style=flat-square)
@@ -91,14 +91,14 @@ class AllanKalema:
 <tr>
 <td valign="top" width="50%">
 
-### 🗄️ Databases
+### <img src="https://cdn-icons-png.flaticon.com/512/1998/1998664.png" width="20"/> Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 </td>
 <td valign="top" width="50%">
 
-### ☁️ DevOps & Cloud
+### <img src="https://cdn-icons-png.flaticon.com/512/4215/4215831.png" width="20"/> DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
@@ -109,11 +109,11 @@ class AllanKalema:
 
 ---
 
-## 🚀 Featured Projects
+## <img src="https://cdn-icons-png.flaticon.com/512/3305/3305209.png" width="24"/> Featured Projects
 
 <div align="left">
 
-### 🤖 AI Compliance Chatbot & Portal
+### <img src="https://cdn-icons-png.flaticon.com/512/4712/4712027.png" width="20"/> AI Compliance Chatbot & Portal
 **National Information Technology Authority Uganda (NITA-U)**
 
 ```
@@ -122,16 +122,16 @@ class AllanKalema:
 ```
 
 **Key Achievements:**
-- ✅ Built LLM-powered chatbot for regulatory guidance
-- ✅ Implemented RAG (Retrieval-Augmented Generation) for accurate responses
-- ✅ Designed scalable event-driven architecture
-- ✅ Reduced compliance query resolution time by 80%
+- <img src="https://cdn-icons-png.flaticon.com/512/5610/5610944.png" width="16"/> Built LLM-powered chatbot for regulatory guidance
+- <img src="https://cdn-icons-png.flaticon.com/512/5610/5610944.png" width="16"/> Implemented RAG (Retrieval-Augmented Generation) for accurate responses
+- <img src="https://cdn-icons-png.flaticon.com/512/5610/5610944.png" width="16"/> Designed scalable event-driven architecture
+- <img src="https://cdn-icons-png.flaticon.com/512/5610/5610944.png" width="16"/> Reduced compliance query resolution time by 80%
 
 **Tech Stack:** `Python` `FastAPI` `LangChain` `PostgreSQL` `OpenAI API`
 
 ---
 
-### 📊 NCEMS AI Enhancement Platform
+### <img src="https://cdn-icons-png.flaticon.com/512/9720/9720874.png" width="20"/> NCEMS AI Enhancement Platform
 **National Gaming & Lotteries Regulatory Board**
 
 ```
@@ -140,16 +140,16 @@ class AllanKalema:
 ```
 
 **Key Achievements:**
-- ✅ Developed intelligent chatbot for operator support
-- ✅ Built anomaly detection system for transaction monitoring
-- ✅ Created real-time analytics dashboard
-- ✅ Automated compliance reporting workflows
+- <img src="https://cdn-icons-png.flaticon.com/512/5610/5610944.png" width="16"/> Developed intelligent chatbot for operator support
+- <img src="https://cdn-icons-png.flaticon.com/512/5610/5610944.png" width="16"/> Built anomaly detection system for transaction monitoring
+- <img src="https://cdn-icons-png.flaticon.com/512/5610/5610944.png" width="16"/> Created real-time analytics dashboard
+- <img src="https://cdn-icons-png.flaticon.com/512/5610/5610944.png" width="16"/> Automated compliance reporting workflows
 
 **Tech Stack:** `Python` `Django` `TensorFlow` `LangChain` `Vue.js`
 
 ---
 
-### 🎟️ TicketYo – Event Ticketing Platform
+### <img src="https://cdn-icons-png.flaticon.com/512/2907/2907161.png" width="20"/> TicketYo – Event Ticketing Platform
 **[ticketyo.com](https://ticketyo.com) | [events.ticketyo.com](https://events.ticketyo.com)**
 
 ```
@@ -158,11 +158,11 @@ class AllanKalema:
 ```
 
 **Key Achievements:**
-- ✅ Built end-to-end ticketing system with QR validation
-- ✅ Implemented real-time attendance tracking
-- ✅ Integrated payment processing and POS systems
-- ✅ Deployed scalable cloud infrastructure
-- ✅ Served thousands of events across Uganda
+- <img src="https://cdn-icons-png.flaticon.com/512/5610/5610944.png" width="16"/> Built end-to-end ticketing system with QR validation
+- <img src="https://cdn-icons-png.flaticon.com/512/5610/5610944.png" width="16"/> Implemented real-time attendance tracking
+- <img src="https://cdn-icons-png.flaticon.com/512/5610/5610944.png" width="16"/> Integrated payment processing and POS systems
+- <img src="https://cdn-icons-png.flaticon.com/512/5610/5610944.png" width="16"/> Deployed scalable cloud infrastructure
+- <img src="https://cdn-icons-png.flaticon.com/512/5610/5610944.png" width="16"/> Served thousands of events across Uganda
 
 **Tech Stack:** `Laravel` `Vue.js` `PostgreSQL` `Docker` `Render`
 
@@ -170,7 +170,7 @@ class AllanKalema:
 
 ---
 
-## 📊 GitHub Analytics
+## <img src="https://cdn-icons-png.flaticon.com/512/6295/6295417.png" width="24"/> GitHub Analytics
 
 <div align="center">
 
@@ -183,13 +183,13 @@ class AllanKalema:
 
 ---
 
-## 🎯 Current Focus Areas
+## <img src="https://cdn-icons-png.flaticon.com/512/1055/1055646.png" width="24"/> Current Focus Areas
 
 <table>
 <tr>
 <td align="center" width="33%">
 
-### 🌍 Impact
+### <img src="https://cdn-icons-png.flaticon.com/512/814/814513.png" width="20"/> Impact
 **Building AI systems**  
 that solve real  
 African problems
@@ -197,7 +197,7 @@ African problems
 </td>
 <td align="center" width="33%">
 
-### 🏗️ Scale
+### <img src="https://cdn-icons-png.flaticon.com/512/3079/3079410.png" width="20"/> Scale
 **Architecting backends**  
 for production-grade  
 systems
@@ -205,7 +205,7 @@ systems
 </td>
 <td align="center" width="33%">
 
-### 🚀 Innovation
+### <img src="https://cdn-icons-png.flaticon.com/512/3305/3305209.png" width="20"/> Innovation
 **Exploring advanced**  
 LLM applications  
 & automation
@@ -216,23 +216,23 @@ LLM applications
 
 ---
 
-## 💼 What I Bring to the Table
+## <img src="https://cdn-icons-png.flaticon.com/512/1087/1087927.png" width="24"/> What I Bring to the Table
 
 <div align="center">
 
 | Expertise | Impact |
 |-----------|--------|
-| 🤖 **AI Integration** | Production-ready LLM applications with RAG, semantic search, and intelligent agents |
-| ⚙️ **Backend Architecture** | Scalable, maintainable systems handling thousands of concurrent users |
-| 📊 **Data Engineering** | ETL pipelines, analytics platforms, and real-time processing |
-| 🔒 **Enterprise Solutions** | Compliance systems, monitoring platforms, and regulatory tools |
-| 🎨 **Full-Stack Development** | End-to-end ownership from database to deployment |
+| <img src="https://cdn-icons-png.flaticon.com/512/4712/4712027.png" width="16"/> **AI Integration** | Production-ready LLM applications with RAG, semantic search, and intelligent agents |
+| <img src="https://cdn-icons-png.flaticon.com/512/2721/2721279.png" width="16"/> **Backend Architecture** | Scalable, maintainable systems handling thousands of concurrent users |
+| <img src="https://cdn-icons-png.flaticon.com/512/9720/9720874.png" width="16"/> **Data Engineering** | ETL pipelines, analytics platforms, and real-time processing |
+| <img src="https://cdn-icons-png.flaticon.com/512/6195/6195699.png" width="16"/> **Enterprise Solutions** | Compliance systems, monitoring platforms, and regulatory tools |
+| <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="16"/> **Full-Stack Development** | End-to-end ownership from database to deployment |
 
 </div>
 
 ---
 
-## 🤝 Let's Build Something Amazing
+## <img src="https://cdn-icons-png.flaticon.com/512/3079/3079186.png" width="24"/> Let's Build Something Amazing
 
 <div align="center">
 
@@ -241,11 +241,11 @@ LLM applications
 [![Email Me](https://img.shields.io/badge/Email_Me-allankalema8@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:allankalema8@gmail.com)
 [![View GitHub](https://img.shields.io/badge/View_My_Work-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/allankalema)
 
-### 📬 Open for:
-✨ AI/ML Projects | 🚀 Backend Architecture Consulting | 💼 Full-Time Opportunities | 🤝 Collaboration
+### <img src="https://cdn-icons-png.flaticon.com/512/646/646094.png" width="20"/> Open for:
+<img src="https://cdn-icons-png.flaticon.com/512/2910/2910791.png" width="16"/> AI/ML Projects | <img src="https://cdn-icons-png.flaticon.com/512/3305/3305209.png" width="16"/> Backend Architecture Consulting | <img src="https://cdn-icons-png.flaticon.com/512/1087/1087927.png" width="16"/> Full-Time Opportunities | <img src="https://cdn-icons-png.flaticon.com/512/3079/3079186.png" width="16"/> Collaboration
 
 ---
 
-<sub>Last updated: April 2026 | Built with ❤️ in Uganda</sub>
+<sub>Last updated: April 2026 | Built with <img src="https://cdn-icons-png.flaticon.com/512/833/833472.png" width="12"/> in Uganda</sub>
 
 </div>
