@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.licdn.com/dms/image/v2/D5603AQFwo48oyQnsHw/profile-displayphoto-crop_800_800/B56ZqGJRi8JsAM-/0/1763187172275?e=1778716800&v=beta&t=f9LzJWN1HLzXcbskHoNlKJzNU06D-MF7oDawYoUI7ns" alt="Allan Kalema" width="150" style="border-radius: 50%;"/>
+<img src="https://avatars.githubusercontent.com/u/137165740?v=4" alt="Allan Kalema" width="150" style="border-radius: 50%;"/>
 
 # Allan Kalema
 
@@ -175,7 +175,7 @@ class AllanKalema:
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=allankalema&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" alt="Allan's GitHub Stats" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=allankalema&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak" width="48%"/>
+<img src="https://streak-stats.demolab.com/?user=allankalema&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak" width="48%"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allankalema&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" width="48%"/>
 
@@ -246,6 +246,6 @@ LLM applications
 
 ---
 
-<sub>Last updated: April 2026 | Built with <img src="https://cdn-icons-png.flaticon.com/512/833/833472.png" width="12"/> in Uganda</sub>
+<sub>Last updated: July 2026 | Built with <img src="https://cdn-icons-png.flaticon.com/512/833/833472.png" width="12"/> in Uganda</sub>
 
 </div>
